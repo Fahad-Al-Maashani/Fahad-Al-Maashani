@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fahad-Al-Maashani/snake-playground/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 # 💫 About Me:
 Hi there! 👋 I'm a self-proclaimed tech nerd who builds magic with code. Whether it's teaching AI to think, embedding systems to work, or hardware to shine, I'm here to turn caffeine-fueled dreams into reality. I adore building software that leverages cutting-edge AI to solve real-world challenges, designing intelligent systems with Embedded Technology, crafting robust Hardware solutions, and developing scalable applications as a Full Stack Developer.<br><br>Whether it's breathing life into a microcontroller or orchestrating a seamless user experience in web applications, I thrive on pushing boundaries and turning ideas into reality.<br><br>Let's collaborate and build something amazing for the world! 💻✨
 
@@ -59,3 +54,4 @@ Hi there! 👋 I'm a self-proclaimed tech nerd who builds magic with code. Wheth
 [![](https://visitcount.itsvg.in/api?id=Fahad-Al-Maashani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Fahad-Al-Maashani/Fahad-Al-Maashani/blob/output/github-snake-dark.svg)
