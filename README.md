@@ -21,4 +21,3 @@ Hi there! 👋 I'm a self-proclaimed tech nerd who builds magic with code. Wheth
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Follow my social media accounts for any update. 
 ![Snake animation](https://github.com/fahadalmaashani/fahadalmaashani/blob/output/github-contribution-grid-snake.svg)
-
