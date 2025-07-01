@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fahad-Al-Maashani/Fahad-Al-Maashani/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Fahad-Al-Maashani/snake-playground/output/github-contribution-grid-snake.svg" />
 </p>
 
 
